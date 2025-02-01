@@ -1,0 +1,22 @@
+#div1{
+    display: flex;
+    justify-content: center;
+}
+#img1 , #img2 , img{
+    width: 50%;
+    height: 50%;
+}
+#div2 , #lidiv3{
+    display: flex;
+    justify-content: center;
+}
+#lidiv1 , #lidiv2 , #lidiv4{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    text-decoration: underline;
+}
+h3:active{
+    color: blue;
+}
